@@ -25,5 +25,16 @@ An end-to-end Sales Analytics Dashboard built in Power BI to track and visuali
 
 <img width="1252" height="700" alt="Sales Analytics Dashboard" src="https://github.com/user-attachments/assets/ca283687-b892-4c3a-b892-8fd5e9f6096b" />
 
+🗂️**Credits**
+
+ - **Data Source:** [Chandoo’s (YouTube video) ] https://youtu.be/ooJO7NW4uJU?si=fpv4wl5jRfYOodqf
+   
+🗂️**Connect With Me**
+
+- **LinkedIn**: https://www.linkedin.com/in/kritika-mahajan-014contact
+- **GitHub**: https://github.com/kritika-data014
+
+Feel free to reach out with questions or feedback about the project!
+
 
 
